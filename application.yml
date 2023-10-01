@@ -1,6 +1,4 @@
-spring:
-  applicatio:
-    name: USER-SERVICE
+spring.applicatio.name: USER-SERVICE
 
 
 eureka:
