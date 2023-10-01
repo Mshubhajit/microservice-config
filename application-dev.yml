@@ -1,1 +1,8 @@
-
+server:
+  port: 8082
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:9090/micro_service_hotel
+    username: postgres
+    password: awdshubhajit126
+    driver-class-name: org.postgresql.Driver
