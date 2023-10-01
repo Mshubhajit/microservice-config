@@ -1,4 +1,4 @@
-spring.datasource.applicatio.name: USER-SERVICE
+spring.datasource.application.name: USER-SERVICE
 
 
 eureka:
